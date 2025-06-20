@@ -1,0 +1,7 @@
+
+npm create vite@latest ./
+
+// https://v3.tailwindcss.com/docs/guides/vite
+
+npm run dev
+
