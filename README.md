@@ -1,2 +1,2 @@
 # zento-motion
-Interactive scroll-animation website built with React.js, GSAP & Tailwind — inspired by Zentry’s modern design aesthetic.
+A visually rich website inspired by Zentry, featuring scroll animations, geometric transitions, and video storytelling — built for a modern, luxurious UI/UX experience.
