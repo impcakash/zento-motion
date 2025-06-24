@@ -5,3 +5,13 @@ npm create vite@latest ./
 
 npm run dev
 
+
+npm install react-icons --save
+
+//  https://www.npmjs.com/package/clsx
+npm install --save clsx
+
+//
+npm install @gsap/react gsap
+
+
