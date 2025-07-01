@@ -38,8 +38,10 @@ const About = () => {
         />
 
         <div className="about-subtext">
-          <p>The Game of Games begins—your life, now an epic MMORPG</p>
-          <p>Zentry unites every player from countless games and platforms</p>
+          <p>The Game of Games begins your life, now an epic MMORPG</p>
+          <p>
+            Zento Motion unites every player from countless games and platforms
+          </p>
         </div>
       </div>
 
