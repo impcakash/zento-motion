@@ -31,11 +31,14 @@ Zento Motion is a visually captivating, scroll-animated website inspired by Zent
 
 ## ⚙️ Tech Stack
 
-- **React.js** — JavaScript library for building user interfaces
-- **GSAP** — Animation library for high-performance visual effects
-- **Tailwind CSS** — Utility-first CSS framework for styling
-- **Vite** — Fast and modern frontend build tool
-- **HTML/CSS** — Markup and styling structure
+- **React.js** – Core JavaScript library for building interactive UIs
+- **GSAP** & `@gsap/react` – Powerful scroll-triggered and timeline animations
+- **Tailwind CSS** – Utility-first CSS framework for responsive and customizable design
+- **Vite** – Lightning-fast dev server and build tool for modern frontend projects
+- **React Icons** – Icon library with popular icon sets (Feather, Font Awesome, etc.)
+- **React Use** – Collection of essential React Hooks for state, effects, and more
+- **clsx** – Utility to conditionally join classNames in a clean, readable way
+- **HTML/CSS** – Standard structure and styling for semantic markup
 
 ---
 
